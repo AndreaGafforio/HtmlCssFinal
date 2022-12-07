@@ -1,0 +1,79 @@
+
+div.banner{	width:1000px; height:105px; position:relative; top:5px; margin-left:auto; background-color:#FF9966; margin-right:auto; border:3px solid blue;}
+
+h1{text-align:center; font-family:verdana;}
+
+h2{text-align:center;}
+
+p {text-align:center; font-family:verdana;}
+
+#pp{color:yellow;}
+
+#search{float:right; border:2px solid black; font-size:11px;}
+
+nav{background-color:#FFCCFF; text-align:center; color:green; font-family:georgia; border:5px solid purple; padding:15px;}
+
+nav a:hover {background-color:#CCCCCC;}
+nav a:link {color:green;}
+
+body {background-image: url(./images/A330.jpg);}
+
+.wrp {background-color:#CCFFCC; color:black; margin:1%; padding:15px; text-align:center; border:5px solid black; width:25%;height:150%; float:right;border-radius:15px;}
+
+#chicken {background-color:#00FFFF; color:black; margin:1%; padding:10px; text-align:center; border:5px solid black; width:60%; height:300%; float:left; border-radius:15px;}
+
+#move {background-color:#ffcc99; color:black; margin:1%; padding:25px; text-align:center; border:5px solid black; width:50%;height:130%; float:left; border-radius:15px;}
+
+footer{font-family:italic; text-align:right;}
+
+.map{float:right; width:30%; height:35%; margin:3px solid gray; background:#FFFFCC;}
+
+#frame{width:95%; height:200px;  box-shadow:2px 2px; scrolling="yes";}
+
+footer{font-family:italic; font-size:small;}
+
+.imgus{display:flex; margin-left: auto; margin-right: auto; float:center; width:300px; height:300px; border:2px ridge #cc3300; border-radius:15px;}
+
+#psurvey{ color:darkgreen;}
+
+#pupload{color:#993333;}
+
+#pupload2{color:#FFCC33;}
+
+#tableindex{background-color:white;}
+
+#pus{color:#000066; text-shadow: #0099CC 2px 2px;}
+
+.tr{background-color:#CCCCCC;}
+
+#plice{color:#000066;}
+
+#Newh1{color:green; text-shadow:black 3px 3px;}
+
+.contact{text-align:center;}
+
+.ol{text-align:center;}
+
+#FI{color:yellow;}
+
+.MCC{color:orange;}
+
+.link{color:orange;}
+
+#MCC{color:orange;}
+
+#cessna{display:flex; margin-left:auto; margin-right: auto; float:center; border:2px dashed purple;}
+
+.image {background:url("images/Cessna.jpg");}​
+
+#FR{border:2px;}
+
+fieldset{width:320px; border:2px ridge #ff0000; padding:10px; margin-bottom:10px; text-align:center;}
+
+.imgbiz{float:right; width:26%; height:32%; border:3px dashed purple;}
+
+
+
+
+
+
